@@ -1,0 +1,88 @@
+christian
+  teamwork and the work that can happen in a team
+  examples
+    errors?
+    fully implemented?
+    automation tests?
+    rewriting required?
+    matches specs?
+  futrher
+    integrates into existing processes
+  agile teams
+    decentralized
+    no one is irrelevant to a diceision
+    everyone can contribute
+  you're never too busy for this
+  estimations
+    shared knowledge means better estimates
+  people learning form eachother
+    juniors learn from seniors
+  sets aside time
+    for teaching/learning
+    taking a break
+  2 reviews before merge to master
+  - general
+    teamwork helps better reach the goal because of shared knowledge and input
+  - concrete
+    errors
+    matching specs - is it what it should be
+    
+    
+marta
+  - general
+    good practices are good for you and your team
+  - concrete
+    don't work for more than an hour, your brain can't handle it and you'll miss bugs. don't look at more than 400 lines per hour
+    annotate your code BEFORE asking for a code review
+  1. -400 lines per time
+  2. take your time, less tahn 500 lines per hour. tkae 10 min breaks per hour
+  3. 60 minutes at a tme
+  4. set goals capture metrics
+  5. annotate your code BEFORE asking for a code review
+  6. checklists
+  7. establish process for fixing defects
+  8. have a + code review culture.  bugs are oportunities, not failures. mentoring for juniors, habit-breaking for seniors
+  9. get rid of peer-review stigmas
+  10. practice light weight
+  
+jon
+  - general
+    focus on the algorithms
+    automate trivial checks
+    reach concensus with the person you're speaking with
+    ask the author, don't tell
+  - concrete
+    as early as possible. 
+    point out essentials, not everything
+    each change gets a pull request
+    
+jake
+  - general
+    security, functionality, performance, ...
+    don't take it personally - your code sucks, not you
+    mistakes are natural, someone is always better at something
+  - concrete
+    developers
+      be your first reviewer
+      have checklist
+    reviewers
+      kidn to the coder, not the code
+      respect juniorer developers
+      avoid "why" questions
+      know standards
+    
+mariana
+  just about the tools built into github
+    * pull requests
+    * merging from different forks
+    * see updates side-by-side
+    * "the blame view" shows evolution of file
+    * you can add comments outside of code
+    * review requests
+    * resolving conflicts directly from github
+    * permissions (for enterprise)
+    * reporting (for enterprise)
+  general
+    code completion tools
+    task completion tools
+    some automation tools
