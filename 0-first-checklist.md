@@ -1,6 +1,24 @@
 # Code Review Checklist
 
 
+## developer
+
+* before request
+
+
+
+
+* after request
+
+any errors?
+full implement?
+automation test?
+need to rewriting?
+spec match?
+
+2 reviews before merge to master. 
+=======
+
 ## Evan's contribution
 
 
@@ -30,11 +48,17 @@
   * Did you learn something from their interpretation?
   * Did they mis-understand something key?
 * Trust your reviewer. Implement their suggestions unless they're flat-out wrong:
-  * This will help to promote a more stylistically consistent code base
-  
+  * This will help to promote a more stylistically consistent code base. 
 
 ## reviewer
 * during request
+
+
+any errors?
+full implement?
+automation test?
+need to rewriting?
+spec match?
 
 1)concrete  
     errors  
@@ -56,4 +80,5 @@
   - copy to another repository / work in isolation (read code in a realistic environment)  
   - imagine your own solution before reviewing  
   - make visual representations/diagrams (figure out/understand) what their code is doing (concrete take away)  
+
 
