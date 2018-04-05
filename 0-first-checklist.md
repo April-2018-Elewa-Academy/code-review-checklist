@@ -11,11 +11,12 @@
       
 * after request
 
-any errors?
-full implement?
-automation test?
-need to rewriting?
-spec match?
+## Reviewer
+any errors?  
+full implement?  
+automation test?  
+need to rewriting?  
+spec match?  
 
 2 reviews before merge to master. 
 =======
