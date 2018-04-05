@@ -15,7 +15,7 @@ automation test?
 need to rewriting?
 spec match?
 
-
+2 reviews before merge to master. 
 
 ## reviewer
 * during request
