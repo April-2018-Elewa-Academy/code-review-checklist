@@ -1,6 +1,4 @@
 R# code-review-checklist
-
-Jake
    
 - security, functionality, performance, ...
 - don't take it personally - your code sucks, not you
