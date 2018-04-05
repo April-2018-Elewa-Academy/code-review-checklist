@@ -6,8 +6,9 @@
 * before request
 
 
-
-
+      be your first reviewer
+      have checklist
+      
 * after request
 
 any errors?
@@ -54,11 +55,18 @@ spec match?
 * during request
 
 
+ kidn to the coder, not the code
+ respect juniorer developers
+ avoid "why" questions
+ know standards
+
+
 any errors?
 full implement?
 automation test?
 need to rewriting?
 spec match?
+
 
 1)concrete  
     errors  

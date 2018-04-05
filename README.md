@@ -1,5 +1,10 @@
 R# code-review-checklist
 
+   
+- security, functionality, performance, ...
+- don't take it personally - your code sucks, not you
+- mistakes are natural, someone is always better at something
+
 
 any errors?
 
@@ -39,4 +44,5 @@ teamwork, everyone can contribute, dont look at exp. lvl.
 * Keep your code reviews short and focused.  
   * Developers do this for reviewers when they send a request
   * Reviewers protect their time when they accept a review request
+
 
