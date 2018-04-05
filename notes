@@ -86,3 +86,15 @@ mariana
     code completion tools
     task completion tools
     some automation tools
+    
+    Evan
+    
+    - level up code reviewing
+  - prioritize goals for code review (e.g. catch bug? understand the way each other think?... think about what is the goal of one particular review) (concrete take away)
+  - use the app/ the perspective of the user to review (detect problems)
+  - set up a timeframe (do them immediately)
+  - copy to another repository / work in isolation (read code in a realistic environment)
+  - always aprove unless you can prove / trust team mates - believe they know what they are doing (general take away)
+  - imagine your own solution before reviewing
+  - make visual representations/diagrams (figure out/understand) what their code is doing (concrete take away)
+  - every team or person is different (general take away)
