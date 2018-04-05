@@ -19,3 +19,9 @@ spec match?
 
 ## reviewer
 * during request
+
+any errors?
+full implement?
+automation test?
+need to rewriting?
+spec match?
