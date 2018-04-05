@@ -1,9 +1,8 @@
 # Code Review Checklist
 
-## developer
-* before request
-* after request
 
+## before request - developer
 
-## reviewer
-* during request
+## during request - reviewer
+
+## after request - developer
