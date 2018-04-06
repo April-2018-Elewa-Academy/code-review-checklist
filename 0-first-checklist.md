@@ -2,7 +2,7 @@
 
 ## Reviewer
 
-### Why reviewing code?
+### Important questions
 
  - Are there any obvious logic errors in the code?
  - Looking at the requirements, are all cases fully implemented?
@@ -10,7 +10,6 @@
  - Does the new code conform to existing style guidelines?
 
 ### Reviewing process
-
 
  - Prioritize goals for code review (e.g. catch bug? understand the way each other think?... think about what is the goal of one particular review) 
  - Use the app/ the perspective of the user to review (detect problems)  
