@@ -1,15 +1,26 @@
 # Code Review Checklist
 
 
-## developer
+## Developer
 
-* before request
+### Before Request
 
-
-      be your first reviewer
-      have checklist
+* Review thoroughly your code before asking for a review.
+* Make sure specifications are complete and well documented.
+* Fill out the checklist, add it to your project repository, and mention it (refer the file) in your review request.
+* Provide a clear and focused list of concerns & features to be reviewed
+ * Annotate your code when necessary (Mark/refer all concerns and features in your list in the actual code - add a comment with a fixed "Issue Name" in your code and use the same name in the list.
       
-* after request
+### After Request
+
+* Read your code reviewer's explanation of your code.  Get back to them:  
+  * Were they right about what you intended?
+  * Did you learn something from their interpretation? (* Take notes (even if just mental) of new solutions and the things you've learned.)
+  * Did they mis-understand something key?
+* Trust your reviewer. Implement their suggestions unless they're flat-out wrong:
+  * This will help to promote a more stylistically consistent code base. 
+* Keep an open mind and consider the feedback as an opportunity to learn.
+
 
 ## Reviewer
 any errors?  
@@ -21,14 +32,9 @@ spec match?
 2 reviews before merge to master. 
 =======
 
-## Evan's contribution
-
-
-### before request - developer
-* Provide a clear and focused list of concerns & features to be reviewed
-* Annotate your code when necessary
+## Notes for later
 * Create a separate branch with (as much as possible) only the code to be reviewed
-* Provide a this template in your project with your "before" section completed
+* If possible indicate the type of struggle (e.g. "check for syntax errors", "check for performance", "check for functionality" etc etc)
 
 ### during request - reviewer
 * Critique the code, not the coder
@@ -44,13 +50,8 @@ spec match?
 * Provide positive, constructive, feedback
 * Trust your developer, when in doubt approve their code
 
-### after request - developer
-* Read your code reviewer's explanation of your code.  Get back to them:  
-  * Were they right about what you intended?
-  * Did you learn something from their interpretation?
-  * Did they mis-understand something key?
-* Trust your reviewer. Implement their suggestions unless they're flat-out wrong:
-  * This will help to promote a more stylistically consistent code base. 
+
+
 
 ## reviewer
 * during request
@@ -91,31 +92,6 @@ spec match?
   - make visual representations/diagrams (figure out/understand) what their code is doing (concrete take away)  
 
 
-# Mariana's contribution - Checklist
-
-## Developer
-
-### Before Request
-
-* Define and document acceptance criteria
-
- * Acceptance crteria is a thorough description the end state functionality the code is supposed to perform (e.g. for a code intended to work as a calculator acceptance criteria would be:
- - perform SUM correctly  
- - perform multiplication correctly  
- - etc etc)
-
-* Specify (make a list) potential struggles
-
- * By potential struggles we mean areas in the code which were more challenging to develop and therefore may contain potential errors. Or pieces of the code which contain an implemented solution which you are not sure is the best possible one(simplest, most performant etc).
- * Indicate where in the code the struggle is located (mark it with a specific comment?)
- * If possible indicate the type of struggle (e.g. "check for syntax errors", "check for performance", "check for functionality" etc etc)
-
-### After Request
-
-* Keep an open mind and consider the feedback as an opportunity to learn.
-* Review all feedback (or at least try to).
-* Reply to your reviewer (even if it's just to thank them for the review)
-* Take notes (even if just mental) of new solutions and things you've learned from the review.
 
 ## Reviewer
 
