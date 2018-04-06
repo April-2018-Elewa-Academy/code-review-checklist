@@ -1,4 +1,24 @@
 
+## Developer
+
+### Before Request
+
+* Review thoroughly your code before asking for a review.
+* Make sure specifications are complete and well documented.
+* Fill out the checklist, add it to your project repository, and mention it (refer the file) in your review request.
+* Provide a clear and focused list of concerns & features to be reviewed
+ * Annotate your code when necessary (Mark/refer all concerns and features in your list in the actual code - add a comment with a fixed "Issue Name" in your code and use the same name in the list.
+      
+### After Request
+
+* Read your code reviewer's explanation of your code.  Get back to them:  
+  * Were they right about what you intended?
+  * Did you learn something from their interpretation? (* Take notes (even if just mental) of new solutions and the things you've learned.)
+  * Did they mis-understand something key?
+* Trust your reviewer. Implement their suggestions unless they're flat-out wrong:
+  * This will help to promote a more stylistically consistent code base. 
+* Keep an open mind and consider the feedback as an opportunity to learn.
+
 
 ## Reviewer
 
@@ -20,12 +40,7 @@
  - Write an explanation of how you think their code works and why
  - Limit yourself to an hour at a time
  - Make visual representations/diagrams (figure out/understand) what their code is doing (concrete take away)
- 
- ### before request - developer
-* Provide a clear and focused list of concerns & features to be reviewed
-* Annotate your code when necessary
-* Create a separate branch with (as much as possible) only the code to be reviewed
-* Provide a this template in your project with your "before" section completed
+
 
 ### during request - reviewer
 * Critique the code, not the coder
@@ -37,10 +52,7 @@
 * Provide positive, constructive, feedback
 * Trust your developer, when in doubt approve their code
 
-### after request - developer
-* Read your code reviewer's explanation of your code.  Get back to them:  
-  * Were they right about what you intended?
-  * Did you learn something from their interpretation?
-  * Did they mis-understand something key?
-* Trust your reviewer. Implement their suggestions unless they're flat-out wrong:
-  * This will help to promote a more stylistically consistent code base.
+
+## Notes for later
+* Create a separate branch with (as much as possible) only the code to be reviewed
+* If possible indicate the type of struggle (e.g. "check for syntax errors", "check for performance", "check for functionality" etc etc)
